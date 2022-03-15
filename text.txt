@@ -1,0 +1,1 @@
+This is a promise file, used for and example.
